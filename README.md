@@ -1,7 +1,7 @@
 # Hi, I'm Madyan Alammari 👋
 
 **Data Analyst | AI & Machine Learning | Python • SQL • Power BI**  
-📍 Jeddah, Saudi Arabia | 🎓 CS @ King Abdulaziz University (GPA 4.9/5)
+| 🎓 CS @ King Abdulaziz University (GPA 4.9/5)
 
 ---
 
