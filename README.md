@@ -9,7 +9,6 @@
 
 I'm a Computer Science professional with hands-on experience in data analytics, machine learning, and digital transformation. I enjoy turning raw data into actionable insights and building end-to-end ML pipelines.
 
-- 🔭 Currently working as a **Business & Financial Data Assistant** at Al Saadah Gold & Silver
 - 🎓 Completed advanced AI training at **KAUST Academy** (CNN & Computer Vision, 40 hrs)
 - 🤖 Passionate about **Machine Learning**, **Data Visualization**, and **AI tools**
 - 📊 Experienced with **Power BI**, **Python**, and **SQL Server**
