@@ -86,7 +86,7 @@ Computer Science professional with hands-on experience in data analytics, machin
 
 | Role | Company | Period |
 |------|---------|--------|
-| Business & Financial Data Assistant | Al Saadah Gold & Silver | Jan 2026 – Present |
+| Business & Financial Data Assistant | Al Saadah Gold & Silver | Jan-Apr 2026 |
 | Data Analytics & Data Science Intern | Deanship of IT · KAU | Jun–Aug 2025 |
 | Digital Transformation Intern | Petromin Corporation | May–Jun 2025 |
 | Academic Explainer (Freelance) | Bravo Me Platform | Jan 2024 – Present |
