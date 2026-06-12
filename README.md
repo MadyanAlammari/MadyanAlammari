@@ -111,7 +111,7 @@ Full relational database design for a university library system. Covers ER diagr
 | Role | Company | Period | Highlights |
 |---|---|---|---|
 | Business & Financial Data Assistant | Al Saadah Gold & Silver | Jan – Apr 2026 | Analyzed sales/purchase data across **5 branches**, covering **5,573+ transactions** |
-| Data Analytics & Data Science Intern | Deanship of IT · KAU | Jun – Aug 2025 | Delivered **6 Power BI dashboard projects** for university stakeholders |
+| Data Analytics & Data Science Intern | Deanship of IT · KAU | Jun – Aug 2025 | Delivered **5 Power BI dashboard projects** for university stakeholders |
 | Digital Transformation Intern | Petromin Corporation | May – Jun 2025 | Trained **900+ employees** on **50+ AI productivity tools** |
 | Academic Explainer (Freelance) | Bravo Me Platform | Jan 2024 – Present | Simplified technical concepts for **110+ subscribers** |
 
