@@ -16,6 +16,7 @@ Computer Science professional with hands-on experience in data analytics, machin
 - 📐 Completed **Mathematics for ML & DS** Specialization — DeepLearning.AI (Linear Algebra · Calculus · Probability & Stats)
 - 🐍 Completed **Python AI Prerequisites** — KAUST Academy (5 courses · Jun 2026)
 - 📊 Completed **Power BI Data Analyst** Learning Path — Microsoft Learn (3 paths: Prepare Data, DAX, Design Reports)
+- 🏛️ **Saudi Council of Engineers** — Official Membership (ID: 1255174)
 - 🤖 Passionate about anomaly detection, mission-critical AI, and deep learning
 - 📊 Experienced with Power BI, Python, OCR pipelines, and ML deployment
 
@@ -77,9 +78,10 @@ Full relational database design for a university library system. Covers ER diagr
 
 | Certificate | Issuer | Courses Included | Date | Verify |
 |---|---|---|---|---|
+| 🏛️ **Saudi Council of Engineers Membership** | Saudi Council of Engineers | — | Jun 2026 – Jun 2027 | [Verify](https://eservices.saudieng.sa/ar/accreditation/pages/validation.aspx?Membershipid=1255174) |
 | 📐 **Mathematics for ML & Data Science** | DeepLearning.AI · Coursera | Linear Algebra · Calculus for ML · Probability & Statistics | Dec 2025 | [View](https://coursera.org/verify/specialization/MMFLLWBA8LHW) |
 | 🐍 **Prerequisite Courses of AI — Python Basics** | KAUST Academy · Coursera | Python Basics · Functions & Files · Classes & OOP · Data Collection · Intro to Data Science | Jun 2026 | [View](https://coursera.org/share/66a5686aac1b290f120c7439a723aee1) |
-| 📊 **Power BI Data Analyst Learning Path** | Microsoft Learn | Prepare Data for Analysis · Use DAX in Semantic Models · Design Effective Reports | Jun 2026 | [View Profile](https://learn.microsoft.com/en-us/users/MadyanAlammari) |
+| 📊 **Power BI Data Analyst Learning Path** | Microsoft Learn | Prepare Data for Analysis · Use DAX in Semantic Models · Design Effective Reports | Jun 2026 | [View Profile](https://learn.microsoft.com/en-us/users/MadyanAlammari-0575/) |
 
 ### Individual Coursera Certificates (under Specializations)
 
@@ -111,7 +113,7 @@ Full relational database design for a university library system. Covers ER diagr
 | Role | Company | Period | Highlights |
 |---|---|---|---|
 | Business & Financial Data Assistant | Al Saadah Gold & Silver | Jan – Apr 2026 | Analyzed sales/purchase data across **5 branches**, covering **5,573+ transactions** |
-| Data Analytics & Data Science Intern | Deanship of IT · KAU | Jun – Aug 2025 | Delivered **5 Power BI dashboard projects** for university stakeholders |
+| Data Analytics & Data Science Intern | Deanship of IT · KAU | Jun – Aug 2025 | Delivered **6 Power BI dashboard projects** for university stakeholders |
 | Digital Transformation Intern | Petromin Corporation | May – Jun 2025 | Trained **900+ employees** on **50+ AI productivity tools** |
 | Academic Explainer (Freelance) | Bravo Me Platform | Jan 2024 – Present | Simplified technical concepts for **110+ subscribers** |
 
@@ -120,6 +122,6 @@ Full relational database design for a university library system. Covers ER diagr
 ## 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=github&logoColor=white)](https://madyanalammari.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madyan-alammari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madyan-alammari-73852a170)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Madyan3172001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadyanAlammari)
