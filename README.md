@@ -144,7 +144,7 @@ Full relational database design for a university library system. Covers ER diagr
 
 ## 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://madyanalammari.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-050816?style=for-the-badge&logo=aboutdotme&logoColor=8b5cf6)](https://madyanalammari.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madyan-alammari-73852a170)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Madyan3172001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadyanAlammari)
