@@ -68,6 +68,16 @@ Senior Capstone Project @ KAU. Intelligent financial auditing system automating 
 
 ---
 
+### 🛒 SmartRetail Data Pipeline — ETL Pipeline
+
+End-to-end ETL pipeline simulating a real-world retail data engineering workflow. Extracts, validates, cleans, and transforms synthetic retail sales data, then loads it into a relational SQLite database with SQL views and analysis queries — built with a modular, production-style project structure.
+
+`Python` `Pandas` `NumPy` `Faker` `SQLite` `SQL`
+
+🔗 [View on GitHub](https://github.com/MadyanAlammari/SmartRetail-DataPipeline)
+
+---
+
 ### 🎓 Student Outcome Prediction — ML Classification
 Processed 7 datasets (32K+ records, 10M+ VLE logs). Engineered behavioral features, applied SMOTE for class balancing. Trained **Random Forest (85%)** and **Logistic Regression (82%)** with GridSearchCV. Deployed as real-time Streamlit app.
 
